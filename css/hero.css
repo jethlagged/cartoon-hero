@@ -29,6 +29,8 @@ h1, h2{
 	font-family: Papyrus, Arial, sans-serif;
 }
 
+/*to add a comment as a shortcut, use command and forward slash*/
+
 header h1{
 	color: white;
 	padding-top: 15px;
