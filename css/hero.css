@@ -15,7 +15,7 @@ h1{
 h2{
 	font-size: 30px;
 	color: #69140e;
-	margin: 40px 0 10px;
+	margin: 0px 0 10px;
 }
 
 header{
@@ -29,7 +29,7 @@ h1, h2{
 	font-family: Papyrus, Arial, sans-serif;
 }
 
-/*to add a comment as a shortcut, use command and forward slash*/
+/*to add a comment as a shortcut, press command and forward slash*/
 
 header h1{
 	color: white;
@@ -47,11 +47,13 @@ main{
 	max-width: 750px;
 	margin: 0 auto;
 	padding: 20px;
+	margin-top: 30px;
 }
 
 main img{
 	max-width: 100%;
 	margin: 0;
+	padding-top: 20px;
 	border-radius: 4px;
 }
 
